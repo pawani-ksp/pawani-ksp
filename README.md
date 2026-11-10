@@ -232,30 +232,6 @@
 
 ---
 
-# 📊 GitHub Stats
-
-<p align="center">
-  <img
-    src="https://github-stats-extended.vercel.app/api?username=pawani-ksp&show_icons=true&theme=default&hide_border=true"
-    alt="Pawani's GitHub Stats"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=pawani-ksp&hide_border=true"
-    alt="Pawani's GitHub Streak"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-stats-extended.vercel.app/api/top-langs/?username=pawani-ksp&layout=compact&hide_border=true"
-    alt="Most Used Languages"
-  />
-</p>
-
----
 
 # 📫 Reach Me
 
